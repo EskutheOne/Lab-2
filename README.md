@@ -1,2 +1,6 @@
-# Lab-2
-Code and report from Lab 2
+# Laboratorium nr 2
+### - Całkowanie numeryczne
+**Zawartość:**
+- Kod 
+- Raport
+
